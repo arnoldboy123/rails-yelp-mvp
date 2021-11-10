@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a two-model rails app which allows users to perform specific subsets of CRUD operations on variables from two models:
+- restaurants
+- reviews
 
-Things you may want to cover:
+the review model is nested within the restaurant model.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This app can be ran on `localhost`
